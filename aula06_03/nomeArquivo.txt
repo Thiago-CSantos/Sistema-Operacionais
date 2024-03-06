@@ -1,0 +1,9 @@
+Registros
+Registro 1, numero de caracteres: 6
+Registro 2, numero de caracteres: 2
+
+Trocando em memoria
+
+Registro 1: 2
+
+Registro 2: 6
